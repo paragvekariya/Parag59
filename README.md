@@ -1,1 +1,1 @@
-I created new portfolio 
+A personal portfolio website showcasing my skills, projects, and experience as a Web Developer. Built with modern web technologies, this portfolio highlights my expertise in front-end developments, and  problem-solving.
